@@ -33,5 +33,14 @@ html, body{
     flex-flow: column wrap;
 }
 
+hr{
+    width: 90%;
+}
 
 
+
+@media (min-width:768px){
+    .gif-container{
+        flex-flow: row wrap;
+    }
+}

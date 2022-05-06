@@ -19,6 +19,8 @@ export const GifApp = () => {
                 <button >Random</button>
             </div>   */}
 
+            <hr />
+
             <div className="gif-container">
                 {
                     categories.map(( category ) => (

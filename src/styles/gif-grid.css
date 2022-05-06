@@ -48,3 +48,21 @@ width: 5rem;
 height: 5rem;
 border-width: 6px;
 }
+
+
+
+/* media query */
+
+@media (min-width: 768px){
+  article{
+    width: 50%;
+    align-self: start;
+  }
+}
+
+
+@media (min-width: 1200px){
+  article{
+    width: 33%;
+  }
+}

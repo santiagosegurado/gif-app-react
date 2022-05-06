@@ -13,7 +13,7 @@ export const GifGrid = ({ category }) => {
         
         return(
 
-            <span class="spinner spinner-large"></span>
+            <span className="spinner spinner-large"></span>
 
         )
     

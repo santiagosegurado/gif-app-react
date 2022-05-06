@@ -14,3 +14,18 @@
     margin: 10px;
     border-radius: 15px;
 }
+
+
+
+/* media query */
+
+@media (min-width: 768px){
+    .img-gif{
+        width: 350px;
+    }
+}
+
+
+@media (min-width: 1200px){
+    
+}
