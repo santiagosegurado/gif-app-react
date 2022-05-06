@@ -1,0 +1,25 @@
+
+
+
+header{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+}
+
+
+/* Logo */
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-container img{
+    width: 100px;
+}
+
+.img-container h3{
+
+    font-size: 50px;
+}

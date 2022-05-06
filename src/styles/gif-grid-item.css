@@ -1,0 +1,16 @@
+
+
+
+.gif-img-container{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+
+.img-gif{
+    height: 330px;
+    align-self: center;
+    width: 90%;
+    margin: 10px;
+    border-radius: 15px;
+}
